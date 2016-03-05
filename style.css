@@ -310,7 +310,7 @@ img{border: none;}
 .features_responsive {
   display: inline;
   float: left;
-  margin-top: 67px;
+/*margin-top: 67px;*/
   width: 100%;
 }
 
