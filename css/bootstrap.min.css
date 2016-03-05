@@ -155,7 +155,7 @@ select {
     box-sizing: border-box}
 html {
     font-size: 62.5%;
-    -webkit-tap-highlight-colorrgba(247, 247, 247, 1)}
+    -webkit-tap-highlight-color:rgba(247, 247, 247, 1)}
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
