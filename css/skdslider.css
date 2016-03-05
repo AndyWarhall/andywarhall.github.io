@@ -41,7 +41,7 @@
 	cursor:pointer;
 }
 .skdslider ul.slide-navs li.current-slide {
-  background: url("img/slide-bg-active.png") no-repeat scroll 0 0 transparent;
+  background: url("../img/slide-bg-active.png") no-repeat scroll 0 0 transparent;
 }
 
 .skdslider .slide-desc {
